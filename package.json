@@ -1,0 +1,19 @@
+{
+  "name": "mywebapp",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "datamaps": "^0.5.1",
+    "dotenv": "^1.2.0",
+    "express": "^4.13.4",
+    "express-handlebars": "^1.2.2",
+    "express-session": "^1.13.0",
+    "gdal": "^0.9.1",
+    "ogr2ogr": "^0.5.1",
+    "pg": "^4.5.3",
+    "topojson": "1"
+  }
+}
